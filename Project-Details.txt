@@ -1,0 +1,11 @@
+1. CLIENT
+   #.env
+    > REACT_APP_FILESTACK_API_KEY
+    > REACT_APP_SERVER_URL
+
+2. SERVER
+   #.env
+    > PORT
+    > CLIENT_URL
+    > MONGO_URL
+
